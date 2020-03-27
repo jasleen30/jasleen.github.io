@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0d2c2cebd05eccd14e25d3410beddd26",
+    "revision": "110f2d6d594e0678781c15cd6ce5f58f",
     "url": "/jasleen.github.io/index.html"
   },
   {
-    "revision": "10c08dd530baf513eb2d",
+    "revision": "3cc5ccfd62f27693b5dc",
     "url": "/jasleen.github.io/static/css/main.76ff40f4.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/jasleen.github.io/static/js/2.c484d89c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "10c08dd530baf513eb2d",
-    "url": "/jasleen.github.io/static/js/main.2b8fb155.chunk.js"
+    "revision": "3cc5ccfd62f27693b5dc",
+    "url": "/jasleen.github.io/static/js/main.7b5eee5c.chunk.js"
   },
   {
     "revision": "dfdf671742fac7b98ee8",
