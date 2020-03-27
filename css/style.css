@@ -29,12 +29,12 @@ font-family: "Quicksand", Arial, sans-serif;
   color: rgba(0, 0, 0, 0.7);
 }
 a {
-  color: #800942;
+  color: #2c98f0;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s; }
   a:hover, a:active, a:focus {
-    color: #800942;
+    color: #2c98f0;
     outline: none;
     text-decoration: none !important; }
 
